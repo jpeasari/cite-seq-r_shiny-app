@@ -54,3 +54,7 @@ To set up and start using the `app.R` script, follow these steps:
 <p float="left">
   <img src="images/PLOT_6.png" width="1000"/>
 </p>
+
+<p float="left">
+  <img src="images/PLOT_7.png" width="1000"/>
+</p>
