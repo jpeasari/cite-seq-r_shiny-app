@@ -26,8 +26,8 @@ install.packages(c("shiny", "ggplot2", "[Other packages]"))
 
 To set up and start using the `app.R` script, follow these steps:
 
-1. **Download the Script:** Download `app.R` to your local machine from the repository or the provided link.
-2. **Install Required Packages:** Before running the script, you must ensure all the required R packages are installed. Open R or RStudio and run the following command to install the necessary packages:
+**Download the Script:** Download `app.R` to your local machine from the repository or the provided link.
+**Install Required Packages:** Before running the script, you must ensure all the required R packages are installed. Open R or RStudio and run the following command to install the necessary packages:
 
 
 
