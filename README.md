@@ -1,4 +1,4 @@
-# R Script Overview
+# R Script Overview -This R Shiny app is in progress - I am improving this app.
 
 This `README.md` provides detailed information about the `app.R` script, including its purpose, setup instructions, usage, and how to contribute to its development. The `app.R` script is designed to [briefly describe what the script does, its target audience, and any particular use case it serves].
 
