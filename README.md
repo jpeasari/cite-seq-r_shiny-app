@@ -31,7 +31,6 @@ To set up and start using the `app.R` script, follow these steps:
 
 ```
 <p float="left">
-  <img src="images/PLOT_1.png" width="200"/>
-  <img src="images/PLOT_2.png" width="170" /> 
-  <img src="images/PLOT_3.png" width="100" /> 
+  <img src="images/PLOT_1.png" width="1000"/>
+
 </p>
