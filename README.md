@@ -30,7 +30,15 @@ To set up and start using the `app.R` script, follow these steps:
 **Install Required Packages:** Before running the script, you must ensure all the required R packages are installed. Open R or RStudio and run the following command to install the necessary packages:
 
 ```
+
 <p float="left">
   <img src="images/PLOT_1.png" width="1000"/>
+</p>
 
+<p float="left">
+  <img src="images/PLOT_2.png" width="1000"/>
+</p>
+
+<p float="left">
+  <img src="images/PLOT_3.png" width="1000"/>
 </p>
